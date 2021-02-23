@@ -29,7 +29,7 @@ def create_board(game_board):
     print('\n')
 
 
-# need to build function to being inputting moves
+# need to build function to begin inputting moves
 
 cols = ['  ', 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
